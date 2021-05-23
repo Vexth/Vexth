@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vexth&repo=blog&show_owner=true)](https://github.com/Vexth/blog)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vexth&repo=way0218/middleware&show_owner=true)](https://github.com/Vexth/way0218/middleware)
-
 
