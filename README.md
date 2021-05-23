@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexth) -->
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vexth&repo=repo-name&show_owner=true)](https://github.com/Vexth/repo-name)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vexth&repo=blog&show_owner=true)](https://github.com/Vexth/blog)
 
 
