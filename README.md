@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Vexth&theme=default&show_icons=true&count_private=true)
+
 ## 技术栈
 ![Golang](https://img.shields.io/badge/-Golang-blue?logo=Go&logoColor=%23ffffff)
 ![Angular](https://img.shields.io/badge/-Angular-%23F05032?logo=Angular&logoColor=%23ffffff)
@@ -24,8 +26,6 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/-Flutter-%23F05032?logo=flutter&logoColor=%23ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=%23ffffff)
 ![Node.js](https://img.shields.io/badge/-Nodejs-blue?logo=nodejs&logoColor=%23ffffff)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Vexth&theme=default&show_icons=true&count_private=true)
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexth) -->
 
