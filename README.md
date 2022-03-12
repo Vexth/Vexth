@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💻 &nbsp;
   ![Golang](https://img.shields.io/badge/-Golang-blue?logo=Go&logoColor=%23ffffff)
 - 🌐 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23ffc501?logo=javascript&logoColor=%23ffffff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-33333?logo=javascript&logoColor=%23ffffff)
   ![Angular](https://img.shields.io/badge/-Angular-%23F05032?logo=Angular&logoColor=%23ffffff)
   ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=%23ffffff)
   ![VueJS](https://img.shields.io/badge/-Vue-%2340c463?logo=Vue.js&logoColor=%23ffffff)
