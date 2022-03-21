@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    ![Flutter](https://img.shields.io/badge/-Flutter-%23F05032?logo=flutter&logoColor=%23ffffff)
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexth) -->
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vexth&repo=blog&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Vexth/blog)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vexth&repo=blog&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=a8fdf6&bg_color=151515)](https://github.com/Vexth/blog)
 
 
 
